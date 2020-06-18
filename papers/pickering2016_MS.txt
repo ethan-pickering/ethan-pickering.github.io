@@ -1,0 +1,6 @@
+@mastersthesis{pickering2016edifes,
+  title		= {EDIFES 0.4: Scalable Data Analytics for Commercial Building Virtual Energy Audits},
+  author 	= {Pickering, Ethan},
+  year		= {2016},
+  school	= {Case Western Reserve University}
+}

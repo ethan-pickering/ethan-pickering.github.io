@@ -1,0 +1,10 @@
+@article{pickering2020lift, 
+  title		= {Lift-up, Kelvin–Helmholtz and Orr mechanisms in turbulent jets},
+  volume	= {896}, 
+  DOI		= {10.1017/jfm.2020.301}, 
+  journal 	= {Journal of Fluid Mechanics}, 
+  publisher	= {Cambridge University Press}, 
+  author	= {Pickering, Ethan and Rigas, Georgios and Nogueira, Petrônio A. S. and Cavalieri, André V. G. and Schmidt, Oliver T. and Colonius, Tim}, 
+  year		= {2020}, 
+  pages={A2} 	= 
+}

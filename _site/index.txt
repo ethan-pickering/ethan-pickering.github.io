@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--  <title>Home</title> -->
+  <title>Home - Ethan Pickering</title>
+  <meta name="description" content="Academic webpage of Ethan Pickering">
+  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/">
+<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/favicon.ico">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+
+
+</head>
+
+
+  <body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+      <a class="navbar-brand" href="http://localhost:4000/">Ethan Pickering</a>
+
+	</div>
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right">
+		<li><a href="http://localhost:4000/">Home</a></li>
+        
+          <li><a href="http://localhost:4000/about">About</a></li>
+        
+          <li><a href="http://localhost:4000/publications">Publications</a></li>
+        
+          <li><a href="http://localhost:4000/talks">Talks</a></li>
+        
+	  </ul>
+	</div>
+  </div>
+</div>
+
+
+    <div class="container-fluid">
+      <div class="row">
+          <div id="homeid" class="col-sm-8">
+	<style>
+code {padding: 6px 8px; font-size: 90%;}
+</style>
+
+# Welcome!
+
+<br/>
+#### `Who am I`
+
+
+I am a Ph.D. Candidate in Mechanical Engineering at the California Institute of Technology studying turbulence and in particular the role of turbulence in jet noise. I completed my B.S. at Case Western Reserve University in Mechanical and Aerospace Engineering (Summa Cum Laude), as well as a M.S. in Mechanical Engineering studying building energy efficiency data analytics.  I have work experience with Philips Healthcare, NASA, and the Great Lakes Energy Institute.  In these roles I spent time working as a prototype engineer, a thermodynamic system modeler, and a building energy data analyst. Currently,  I am pursuing research at the intersection of computational fluid dynamics and data science.
+
+In particular, my current research looks at decomposing complex flows into their most energetic components (using Spectral Proper Orthogonal Decomposition) and modeling these structures via linear amplification theory of the equations of motion in fluid dynamics (Resolvent Analysis). Check out the video  below on how we decompose large datasets into SPOD modes and then seek to model their equivalent with resolvent analysis.
+
+Blah blah blah blah New biomedical devices and therapies stand to improve human health outcomes the world over.
+Though innovating in this space is challenging, predictive simulation tools provide a promising path forward.
+I am a computational scientist who clears these paths via new data-driven models, numerical algorithms, and extreme-scale software.
+Recent examples include the <a href="http://localhost:4000/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="http://localhost:4000/papers/bryngelson-PRE-19.pdf" target="_blank">very-low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my scalable open-source multi-phase flow solver.
+These developments guide biomicrofluidic device design and improve human patient outcomes for a range of medical treatments (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
+
+<br/>
+
+<div class="row" style="text-align:center">
+<video controls autoplay muted loop width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;">
+  <source src="http://localhost:4000/images/videos/3dtrain_breakdown2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+  Breakdown of a flowing cell train. Bryngelson & Freund, *Phys. Rev. Fluids* (2018)
+</div>
+<br/>
+
+#### `$id`
+
+I am currently a Senior Postdoctoral Scholar at the <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a>.
+I also work with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> at the Massachusetts Institute of Technology on machine-learned model closures.
+Previously, I was a Postdoctoral Researcher at the <a href="https://xpacc.illinois.edu/" target="_blank">Center for Exascale Simulation of Plasma-Coupled Combustion</a> (XPACC).
+I have a Ph.D. and M.S. in Theoretical and Applied Mechanics from the University of Illinois at Urbana–Champaign (2017 and 2015), where I worked with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Professor Jonathan Freund</a>.
+I hold B.S. degrees in Mechanical Engineering and Engineering Mathematics from the University of Michigan–Dearborn (2013).
+
+<br/>
+<div class="well-md">
+<h3>Sponsors</h3>
+<div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
+ <a href="https://www.ndsegfellowships.org/" target="_blank"><img src='/images/logopic/NDSEG.png' style='max-height: 70px; max-width: 170px;'/></a>   <a href="https://www.onr.navy.mil/" target="_blank"><img src='/images/logopic/onr_logo.png' style='max-height: 70px; max-width: 170px;'/></a>   <a href="https://www.energy.gov/" target="_blank"><img src='/images/logopic/doe_logo.png' style='max-height: 70px; max-width: 170px;'/></a>   
+</div>
+
+</div>
+
+
+
+  </div>
+  <div id="newsid" class="col-sm-4" >
+	<div class="well">
+<h4></h4>
+
+
+<div class="row">
+  <a href="http://localhost:4000/about"><img src="http://localhost:4000/images/teampic/Ethan_Smile.JPG" class="img-responsive" width="60%" style="block:inline; margin-left:auto; margin-right:auto;" /></a>
+  <center><h4>Ethan Pickering</h4>
+
+   
+   <a href="mailto:pickering@caltech.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> 
+    <a href="https://scholar.google.com/citations?user=q3KI3-0AAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> 
+    <a href="https://github.com/ethan-pickering/cv/blob/master/Ethan_Pickering_Curriculum_Vitae.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> 
+    <a href="https://github.com/ethan-pickering" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> 
+    <a href="https://www.researchgate.net/profile/Ethan_Pickering" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> 
+  </center>
+  <ul style="overflow: hidden">
+  
+
+  
+
+  
+
+  
+  <li> (2016- ) Ph.D. ME, Caltech </li>
+  <li> (2018) M.S. ME, Caltech </li>
+  <li> (2016) M.S. ME, CWRU </li>
+  <li> (2015) B.S. MAE, CWRU </li>
+  
+
+  
+
+  
+  </ul>
+</div>
+
+
+</div>
+
+<div class="well">
+<h4>News</h4>
+
+  
+  22 May, 2020
+    <p>Just submitted a new <a href='https://arxiv.org/abs/2005.10964' target='_blank'>paper</a> to JFM! We use data to determine an optimal eddy-viscosity for resolvent analysis.</p>
+  
+  14 April, 2020
+    <p><a href='https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/liftup-kelvinhelmholtz-and-orr-mechanisms-in-turbulent-jets/E02CC1F9FE261D38B2E2A91D77D53E20' target='_blank'>Lift-Up in turbulent jets paper</a> accepted to JFM!</p>
+  
+  
+  <h4><a href="http://localhost:4000/allnews.html">... see all News</a></h4>
+
+</div>
+
+<div class="well">
+<h4>Upcoming Events</h4>
+  
+  <b>November 22-24, 2020</b>
+    <p>APS Division of Fluid Dynamics<br/>
+    <i>Chicago, Illinois USA</i></p>
+  
+  <b>December 8-12, 2020</b>
+    <p>179th Meeeting of the Acoustical Society of America<br/>
+    <i>Chicago, Illinois USA</i></p>
+  
+  <b>August 22-27, 2021</b>
+    <p>25th International Congress on Theroretical and Applied Mechanics<br/>
+    <i>Milano, Italy</i></p>
+  
+</div>
+
+<!-- <div class="well"> -->
+<!-- <h4>Funding</h4> -->
+<!--   <style> -->
+<!--    .mycenter { -->
+<!--       display: block; -->
+<!--       margin-left: auto; -->
+<!--       margin-right: auto; -->
+<!--    } -->
+<!--   </style> -->
+<!--   -->
+<!--   --> 
+<!--   <a href="https://www.ndsegfellowships.org/" target="_blank"><img src='/images/logopic/NDSEG.png' class='mycenter' style='max-height: 70px; max-width: 200px;'/></a> -->
+<!--   --> 
+<!--   -->
+<!--   --> 
+<!--   <a href="https://www.onr.navy.mil/" target="_blank"><img src='/images/logopic/onr_logo.png' class='mycenter' style='max-height: 70px; max-width: 200px;'/></a> -->
+<!--   --> 
+<!--   -->
+<!--   --> 
+<!--   <a href="https://www.energy.gov/" target="_blank"><img src='/images/logopic/doe_logo.png' class='mycenter' style='max-height: 70px; max-width: 200px;'/></a> -->
+<!--   --> 
+<!--   -->
+<!-- </div> -->
+
+
+  </div>
+
+      </div>
+    </div>
+
+    <br/>
+<div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+		<div class="col-sm-4">
+			
+            <p>&copy 2020 Ethan Pickering </p>
+
+              <p>I am part of the <a href="http://www.eas.caltech.edu/" target="_blank">Division of Engineering and Applied Science</a> at the California Institute of Technology</p>
+
+		   <p>  </p><p>
+            		  
+		</div>
+
+		<div class="col-sm-4">
+            <p>Contact Ethan via email: <a href="mailto:pickering@caltech.edu" target="_blank">pickering@caltech.edu</a> <br/> <br/><a href="/aboutwebsite.html">Use this webpage as a template for your own!</a>
+</p>
+		</div>
+
+
+		<div class="col-sm-4">
+            <p>Coordinates: <br/> Gates-Thomas Laboratory <br/> California Institute of Technology <br/> 1200 E California Blvd<br/> Pasadena, CA 91125, MC104-44<br/>
+</p>
+		</div>
+
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://localhost:4000/js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>

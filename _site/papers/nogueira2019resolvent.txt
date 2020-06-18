@@ -1,0 +1,7 @@
+@inproceedings{nogueira2019resolvent,
+  title		= {Resolvent-based analysis of streaks in turbulent jets},
+  author	= {Nogueira, Petr{\^o}nio A and Cavalieri, Andr{\'e} V and Schmidt, Oliver T and Jordan, Peter and Jaunet, Vincent and Pickering, Ethan and Rigas, Georgios and Colonius, Tim},
+  booktitle	= {25th AIAA/CEAS Aeroacoustics Conference},
+  pages		= {2569},
+  year		= {2019}
+}

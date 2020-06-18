@@ -1,0 +1,103 @@
+
+- title: Optimal eddy viscosity for resolvent-based models of coherent structures in turbulent jets
+  authors: 
+    E. Pickering, G. Rigas, O. T. Schmidt, D. Sipp, T. Colonius
+  url: pickering2020optimal
+  image: pickering2020optimal.png
+  display: <b>submitted</b>, Journal of Fluid Mechanics
+  year: 2020
+  arxiv: 2005.10964
+  abstract: "Response modes computed via linear resolvent analysis of the turbulent mean-flow field have been shown to qualitatively capture characteristics of the observed turbulent coherent structures in both wall-bounded and free shear flows. To make such models predictive, the nonlinear forcing term must be closed either by including a self-consistent set of triadic interactions or through turbulence modeling. For the latter, several investigators have proposed using the mean-field eddy viscosity acting linearly on the fluctuation field. In this study, a data-driven approach is taken to quantitatively improve linear resolvent models by deducing an optimal eddy-viscosity field that maximizes the projection of the dominant resolvent mode to the energy-optimal coherent structure educed using spectral proper orthogonal decomposition (SPOD) of data from high-fidelity simulations. We use large-eddy simulation databases for round isothermal jets at subsonic, transonic, and supersonic conditions and show that the optimal eddy viscosity substantially improves the alignment between resolvent and SPOD modes, reaching over 90% alignment at those frequencies where the jet exhibits a low-rank response. We then consider a fixed model for the eddy viscosity and show that with the calibration of a single constant, the results are generally close to the optimal one. In particular, the use of a standard Reynolds-Averaged-Navier-Stokes (RANS) eddy-viscosity resolvent model, with a single scaling coefficient, provides substantial agreement between SPOD and resolvent modes for three turbulent jets and across the most energetic wavenumbers and frequencies."
+
+- title: Lift-up, Kelvin–Helmholtz and Orr mechanisms in turbulent jets
+  authors: 
+    E. Pickering, G. Rigas, P. A. S. Nogueira, A. V. G. Cavalieri, O. T. Schmidt, T. Colonius
+  url: pickering2020lift
+  image: pickering2020lift.jpeg
+  display: Journal of Fluid Mechanics 892, A2
+  year: 2020
+  arxiv: 1909.09737
+  doi: doi:10.1017/jfm.2020.301
+  abstract: "Three amplification mechanisms present in turbulent jets, namely lift-up, Kelvin– Helmholtz and Orr, are characterized via global resolvent analysis and spectral proper orthogonal decomposition (SPOD) over a range of Mach numbers. The lift-up mechanism was recently identified in turbulent jets via local analysis by Nogueira et al. (J. Fluid Mech., vol. 873, 2019, pp. 211–237) at low Strouhal number (St) and non-zero azimuthal wavenumbers (m). In these limits, a global SPOD analysis of data from high-fidelity simulations reveals streamwise vortices and streaks similar to those found in turbulent wall-bounded flows. These structures are in qualitative agreement with the global resolvent analysis, which shows that they are a response to upstream forcing of streamwise vorticity near the nozzle exit. Analysis of mode shapes, component-wise amplitudes and sensitivity analysis distinguishes the three mechanisms and the regions of frequency–wavenumber space where each dominates, finding lift-up to be dominant as St/m → 0. Finally, SPOD and resolvent analyses of localized regions show that the lift-up mechanism is present throughout the jet, with a dominant azimuthal wavenumber inversely proportional to streamwise distance from the nozzle, with streaks of azimuthal wavenumber exceeding five near the nozzle, and wavenumbers one and two most energetic far downstream of the potential core."
+
+- title: Resolvent-based jet noise models - a projection approach
+  authors: 
+    E. Pickering, A. Towne, P. Jordan, T. Colonius
+  url: pickering2020resolvent
+  image: pickering2020resolvent.png
+  display: Proceedings of AIAA Scitech, Orlando 0999
+  year: 2020
+  doi: doi:10.2514/6.2020-0999
+  abstract: "Linear resolvent analysis has demonstrated encouraging results for modeling coherent structures in jets when compared against their data-deduced counterparts from high-fidelity large-eddy simulations (LES). However, leveraging resolvent modes for reconstructing statistics of the far acoustic field remains elusive. In this study, we use a LES database to produce an ensemble of realizations for the acoustic field that we project on to a limited set of n resolvent modes. The projections are done on a restricted acoustic output domain, r/D = [5, 6], and allow for the LES realizations to be recast in the resolvent basis via a datadeduced, low-rank, n × n cross-spectral density matrix. We find substantial improvements to the acoustic field reconstructions with the addition of a RANS-derived eddy-viscosity model to the resolvent operator. The reconstructions quantitatively match the most energetic regions of the acoustic field across Strouhal numbers, St = [0 − 1], and azimuthal wavenumbers, m = [0, 2], using only three resolvent modes. Finally, the characteristics of the resulting n × n covariance matrices are examined and suggest off-diagonal terms may be neglected for n ≤ 3. Results are presented for round, isothermal, Mach 1.5 and 0.9 jets."
+
+#- title: Near-surface dynamics of a gas bubble collapsing above a crevice
+#  authors:
+#    T. Trummler, S. H. Bryngelson, K. Schmidmayer, S. J. Schmidt, N. A. Adams, T. Colonius
+#  url: bryngelson-JFM-19
+#  image: crevice20.png
+#  display: <b>accepted</b>, Journal of Fluid Mechanics 1907
+#  year: 2020
+#  arxiv: 1912.07022
+#  abstract: "The impact of a collapsing gas bubble above rigid, notched walls is considered. Such surface crevices and imperfections often function as bubble nucleation sites, and thus have a direct relation to cavitation-induced erosion and damage structures. A generic configuration is investigated numerically using a second-order-accurate compressible multi-component flow solver in a two-dimensional axisymmetric coordinate system. Results show that the crevice geometry has a significant effect on the collapse dynamics, jet formation, subsequent wave dynamics, and interactions. The wall-pressure distribution associated with erosion potential is a direct consequence of development and intensity of these flow phenomena."
+
+- title: Eddy viscosity for resolvent-based jet noise models
+  authors: 
+   E. Pickering, G. Rigas, O. T. Schmidt, D. Sipp, T. Colonius
+  url: pickering2019eddy
+  image: pickering2019eddy.png
+  display: Proceedings of AIAA/CEAS Aeroacoustics, Delft 2454
+  year: 2019
+  doi: doi:10.2514/6.2019-2454
+  abstract: "Response modes computed via linear resolvent analysis have shown promising results for qualitatively modeling both the hydrodynamic and acoustic fields in jets when compared to data-deduced modes from high-fidelity, large-eddy simulations (LES). For an improved quantitative prediction of the near- and far-field, the role of Reynolds stresses must also be considered. In this study, we propose a methodology to deduce an eddy-viscosity model that optimally captures the nonlinear forcing of resolvent modes. The methodology is based on the maximization of the projection between resolvent analysis and spectral proper orthogonal decomposition (SPOD) modes using a Lagrangian optimization framework. For a Mach 0.4 round, isothermal, turbulent jet, four methods are used to increase the projection coefficients: linear damping, spatially constant eddy-viscosity field, a turbulent kinetic energy derived viscosity field, and an optimized eddy-viscosity field. The resulting projection coefficients for the optimized eddy-viscosity field between SPOD and resolvent can be increased to over 90% for frequencies in the range St = 0.35−1 with significant improvements to St < 0.35. We find that the use of a frequency-independent turbulent kinetic energy turbulent viscosity model produces modes closely inline with optimal results, providing a preliminary eddy-viscosity resolvent model for jets."
+
+- title: Streaks and coherent structures in jets from round and serrated nozzles
+  authors: 
+   G. Rigas, E. Pickering, O. T. Schmidt, P. A. S. Nogueira, A. V. G. Cavalieri, G. A. Bres, T. Colonius
+  url: rigas2019streaks
+  image: rigas2019streaks.png
+  display: Proceedings of AIAA/CEAS Aeroacoustics, Delft 2597
+  year: 2019
+  doi: doi:10.2514/6.2019-2597 
+  abstract: "Hydrodynamic instabilities are directly related to large-scale coherent structures that are correlated with jet noise emission. Unravelling and accurately predicting their fundamental dynamics shows a promising direction for designing quieter jet engines. In this study, we analyze high-fidelity large-eddy simulation data of a turbulent Mach 0.4 round jet and a Mach 1.5 chevron jet. Using spectral proper orthogonal decomposition we identify, beyond the well-known Kelvin–Helmholtz and Orr mechanisms, elongated alternating streamwise streaks of high and low-speed fluid that have been associated with a non-modal lift-up effect in wall-bounded shear flows. In the global three-dimensional domain, the most energetic streaks manifest for azimuthal wavenumber m = 1 and frequency St → 0. Furthermore, for the chevron jet, streaks and streamwise vortices appear due to the presence of the serrated nozzle, and they inherit the periodicity of the nozzle geometry. Finally, local (planar) spectral proper orthogonal decomposition is used to analyze the coherent structures of the chevron jet flow. Near the nozzle exit, antisymmetric and symmetric modes appear to be amplified and linked to the presence of the chevrons/streaks. Further downstream, the most energetic modes share similar characteristics to the ones observed
+in round jets."
+
+- title: Resolvent-based analysis of streaks in turbulent jets
+  authors: 
+   P. A. S. Nogueira, A. V. G. Cavalieri, O. T. Schmidt, P. Jordan, V. Jaunet, E. Pickering, G. Rigas, T. Colonius
+  url: nogueira2019resolvent
+  image: nogueira2019resolvent.png
+  display: Proceedings of AIAA/CEAS Aeroacoustics, Delft 2569
+  year: 2019
+  doi:  doi:10.2514/6.2019-2569
+  abstract: "Large scale, elongated structures, similar those ones widely studied in wall-bounded flows, are also present in turbulent jets. Several characteristics of these streaks can be identified via reduced order models such as resolvent analysis. The present work involves a resolvent-based study of these structures in turbulent jets. We focus on obtaining the optimal forcing that generates these energetic coherent structures. Results are compared with experimental data post-processed using spectral proper orthogonal decomposition, allowing us to draw conclusions about the nature of the non-linear forcing, since the two analyses should provide equivalent results if this term is modelled as spatially white. By identifying streaks in a global framework, we expect to better understand the mechanism by which they are generated."
+
+- title: Building electricity consumption - Data analytics of building operations with classical time series decomposition and case based subsetting
+  authors: 
+   E. Pickering, M. A. Hossain, R. H. French, A. R. Abramson
+  url: pickering2018building
+  image: pickering2018building.png
+  display: Buildings and Energy 177, 184-196
+  year: 2018
+  doi: doi:10.1016/j.enbuild.2018.07.056
+  abstract: "The commercial building sector consumes approximately one-fifth of U.S. total energy and exhibits significant operational inefficiencies, leaving a great opportunity to implement various energy-efficiency measures. However, conventional energy audit techniques are expensive, time-consuming, and frequently inaccurate. Conversely, classical time series decomposition of smart meter (i.e. 15 min interval) building electricity consumption provides quick, inexpensive, and useful insights to building operation and characteristics. Paired with complementary time series datasets such as outdoor temperature and solar irradiation, specific insights into HVAC scheduling, daily operational variation, and the relative impact of temperature and solar radiation were quantitatively assessed. This work analyzes six commercial buildings and identifies various building characteristics, including the potential for savings of over 700 MWh valued at 92,000 per year from building rescheduling alone. With access to only whole building smart meter data, these results are obtained virtually and instantaneously, making the case for a rigorous data analytics approach to unlock the potential of building energy efficiency."
+
+- title: A cross-sectional study of the temporal evolution of electricity consumption of six commercial buildings  
+  authors: 
+   E. Pickering, M. A. Hossain, J. P. Mousseau, R. A. Swanson, R. H. French, A. R. Abramson
+  url: pickering2017cross
+  #image: pickering2017cross.tif
+  display: PLOS One
+  year: 2017
+  doi: doi:10.1371/journal.pone.0187129
+  abstract: "Current approaches to building efficiency diagnoses include conventional energy audit techniques that can be expensive and time consuming. In contrast, virtual energy audits of readily available 15-minute-interval building electricity consumption are being explored to provide quick, inexpensive, and useful insights into building operation characteristics. A cross sectional analysis of six buildings in two different climate zones provides methods for data cleaning, population-based building comparisons, and relationships (correlations) of weather and electricity consumption. Data cleaning methods have been developed to categorize and appropriately filter or correct anomalous data including outliers, missing data, and erroneous values (resulting in < 0.5 percent anomalies). The utility of a cross-sectional analysis of a sample set of building’s electricity consumption is found through comparisons of baseload, daily consumption variance, and energy use intensity. Correlations of weather and electricity consumption 15-minute interval datasets show important relationships for the heating and cooling seasons using computed correlations of a Time-Specific-Averaged-Ordered Variable (exterior temperature) and corresponding averaged variables (electricity consumption)(TSAOV method). The TSAOV method is unique as it introduces time of day as a third variable while also minimizing randomness in both correlated variables through averaging. This study found that many of the pair-wise linear correlation analyses lacked strong relationships, prompting the development of the new TSAOV method to uncover the causal relationship between electricity and weather. We conclude that a combination of varied HVAC system operations, building thermal mass, plug load use, and building set point temperatures are likely responsible for the poor correlations in the prior studies, while the correlation of time-specific-averaged-ordered temperature and corresponding averaged variables method developed herein adequately accounts for these issues and enables discovery of strong linear pair-wise correlation R values. TSAOV correlations lay the foundation for a new approach to building studies, that mitigates plug load interferences and identifies more accurate insights into weather-energy relationship for all building types. Over all six buildings analyzed the TSAOV method reported very significant average correlations per building of 0.94 to 0.82 in magnitude. Our rigorous statistics-based methods applied to 15-minute-interval electricity data further enables virtual energy audits of buildings to quickly and inexpensively inform energy savings measures."
+
+- title: EDIFES 0.4 - Scalable data analytics for commercial building virtual energy audits
+  authors: 
+   E. Pickering
+  url: pickering2016_MS
+  #image: pickering2017cross.tif
+  display: Master's Thesis
+  year: 2016
+  #doi: doi:10.1371/journal.pone.0187129
+  abstract: "Energy Diagnostics Investigator for Efficiency Savings (EDIFES) has been developed for scalable data analytics to conduct virtual energy audits on commercial buildings. Built as a software package in R, EDIFES ingests building electricity data and readily available weather data, applying various data analytics to determine building markers, characteristics, and operational tendencies. Through these analyses building systems are identified, including Heating Ventilation and Air Conditioning (HVAC), lighting, and plug load or other equipment, with characteristics such as load and system scheduling. Once building systems have been identified, EDIFES conducts virtual energy audits to diagnose efficiency issues, determines the impact (i.e. return-on-investment or payback) of potential retrofit actions (e.g. reschedulingHVAC to occupied hours or conducting a lighting retrofit). After this stage, it can be used for measurement and verification (M&V) or continuous commissioning. Six buildings are presented in this thesis."
+

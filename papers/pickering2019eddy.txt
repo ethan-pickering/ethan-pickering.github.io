@@ -1,0 +1,7 @@
+@inproceedings{pickering2019eddy,
+  title		= {Eddy viscosity for resolvent-based jet noise models},
+  author	= {Pickering, Ethan and Rigas, Georgios and Sipp, Denis and Schmidt, Oliver T and Colonius, Tim},
+  booktitle	= {25th AIAA/CEAS Aeroacoustics Conference},
+  pages		= {2454},
+  year		= {2019}
+}

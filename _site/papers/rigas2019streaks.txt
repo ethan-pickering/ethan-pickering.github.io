@@ -1,0 +1,7 @@
+@inproceedings{rigas2019streaks,
+  title		= {Streaks and coherent structures in jets from round and serrated nozzles},
+  author 	= {Rigas, Georgios and Pickering, Ethan and Schmidt, Oliver T and Nogueira, Petr{\^o}nio A and Cavalieri, Andr{\'e} V and Br{\`e}s, Guillaume A and Colonius, Tim},
+  booktitle 	= {25th AIAA/CEAS Aeroacoustics Conference},
+  pages		= {2597},
+  year		= {2019}
+}

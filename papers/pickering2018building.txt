@@ -1,0 +1,9 @@
+@article{pickering2018building,
+  title	  	= {Building electricity consumption: Data analytics of building operations with classical time series decomposition and case based subsetting},
+  author  	= {Pickering, Ethan and Hossain, Mohammad A and French, Roger H and Abramson, Alexis R},
+  journal 	= {Energy and Buildings},
+  volume  	= {177},
+  pages   	= {184--196},
+  year    	= {2018},
+  publisher	= {Elsevier}
+}

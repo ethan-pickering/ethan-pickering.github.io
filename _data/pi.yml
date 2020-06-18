@@ -1,0 +1,17 @@
+- name: Ethan Pickering
+  photo: Ethan_Smile.JPG
+  info: PhD Student
+  email: pickering@caltech.edu
+  github: https://github.com/ethan-pickering
+  researchgate: https://www.researchgate.net/profile/Ethan_Pickering
+  scholar: https://scholar.google.com/citations?user=q3KI3-0AAAAJ&hl=en
+  cv: https://github.com/ethan-pickering/cv/blob/master/Ethan_Pickering_Curriculum_Vitae.pdf
+  number_educ: 4
+  education1: (2016- ) Ph.D. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
+  education2: (2018) M.S. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
+  education3: (2016) M.S. Mechanical Engineering, Case Western Reserve University (with <a href="https://engineering.dartmouth.edu/people/faculty/alexis-abramson" target="_blank">Alexis Abramson</a> (now at Dartmouth) and <a href="https://engineering.case.edu/centers/sdle/roger-french" target="_blank">Roger French</a>)
+  education4: (2015) B.S. Mechanical and Aerospace Engineering, Case Western Reserve University
+  education1short: (2016- ) Ph.D. ME, Caltech 
+  education2short: (2018) M.S. ME, Caltech 
+  education3short: (2016) M.S. ME, CWRU 
+  education4short: (2015) B.S. MAE, CWRU

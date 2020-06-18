@@ -1,0 +1,7 @@
+@inproceedings{pickering2020resolvent,
+  title		= {Resolvent-based jet noise models: a projection approach},
+  author	= {Pickering, Ethan and Towne, Aaron and Jordan, Peter and Colonius, Tim},
+  booktitle	= {AIAA Scitech 2020 Forum},
+  pages		= {0999},
+  year		= {2020}
+}

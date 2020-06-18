@@ -1,0 +1,62 @@
+# Site settings
+title: Ethan Pickering
+email: pickering@caltech.edu
+description: Academic webpage of Ethan Pickering
+baseurl: ""
+url: ""
+affiliation: I am part of the <a href="http://www.eas.caltech.edu/" target="_blank">Division of Engineering and Applied Science</a> at the California Institute of Technology
+
+# Google analytics ID
+google_analytics: UA-167467135-1
+
+# Location info. (shown in footer)
+location: >
+  Coordinates: <br/>
+  Gates-Thomas Laboratory <br/>
+  California Institute of Technology <br/>
+  1200 E California Blvd<br/>
+  Pasadena, CA 91125, MC104-44<br/>
+
+# Contact info. (shown in footer)
+contact: >
+    Contact Ethan via email: <a href="mailto:pickering@caltech.edu" target="_blank">pickering@caltech.edu</a> <br/>
+    <br/><a href="/aboutwebsite.html">Use this webpage as a template for your own!</a>
+
+# Pages shown in navbar
+nav_pages:
+  - name: about
+  - name: publications
+  - name: talks
+# - name: research
+# - name: software
+# - name: team
+# - name: teaching
+
+# Do you want to group your publications by year? {true/false}
+group_pub_by_year: true
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links

@@ -1,0 +1,9 @@
+@article{pickering2017cross,
+  title		= {A cross-sectional study of the temporal evolution of electricity consumption of six commercial buildings},
+  author	= {Pickering, Ethan M and Hossain, Mohammad A and Mousseau, Jack P and Swanson, Rachel A and French, Roger H and Abramson, Alexis R},
+  journal	= {PloS one},
+  volume 	= {12},
+  number	= {10},
+  year		= {2017},
+  publisher	= {Public Library of Science}
+}
