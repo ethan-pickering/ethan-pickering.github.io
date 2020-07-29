@@ -21,7 +21,7 @@ I am a Ph.D. Candidate in Mechanical Engineering at the <a href="https://www.cal
   <source src="{{ site.url }}{{ site.baseurl }}/images/videos/jet_spod_resolvent.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-  Spectral Proper Orthogonal Decomposition and Resolvent Analysis of a Mech 1.5 jet. 
+  Spectral Proper Orthogonal Decomposition and Resolvent Analysis of a Mach 1.5 jet. 
 <br/>
 Pickering et al., *Journal of Fluid Mechanics* (2020)
 </div>
