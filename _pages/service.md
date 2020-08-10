@@ -9,8 +9,8 @@ permalink: /service/
 {% if site.data.teaching %}
 # Teaching
 
-{% for award in site.data.teaching %}
-* {{ teaching.name }}
+{% for publi in site.data.teaching %}
+* {{ publi.name }}
 {% endfor %}
 {% endif %}
 
