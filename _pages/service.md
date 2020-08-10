@@ -1,8 +1,8 @@
 ---
-title: "Talks"
+title: "Service"
 layout: gridlay
 sitemap: false
-permalink: /talks/
+permalink: /service/
 ---
 
 
