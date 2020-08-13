@@ -11,7 +11,8 @@ code {padding: 6px 8px; font-size: 90%;}
 
 # Welcome!
 
-I am a Ph.D. Candidate in Mechanical Engineering at the <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a> on turbulence and in particular, the role of turbulence on jet noise. I completed my B.S. at Case Western Reserve University in Mechanical and Aerospace Engineering (Summa Cum Laude), as well as a M.S. in Mechanical Engineering studying building energy efficiency data analytics.  I have work experience with Philips Healthcare, NASA, and the Great Lakes Energy Institute.  In these roles I spent time working as a prototype engineer, a thermodynamic system modeler, and a building energy data analyst. Currently,  I am pursuing research at the intersection of computational fluid dynamics and data science.
+I am a Ph.D. Candidate in Mechanical Engineering working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a> on reduced-order turbulence models at the <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>. I completed my B.S. at Case Western Reserve University in Mechanical and Aerospace Engineering (Summa Cum Laude), as well as a M.S. in Mechanical Engineering studying building energy efficiency data analytics.  I have work experience with Philips Healthcare, NASA, and the Great Lakes Energy Institute.  In these roles I spent time working as a prototype engineer, a thermodynamic system modeler, and a building energy data analyst. Currently,  I am pursuing research at the intersection of computational fluid dynamics and data science.
+
 
 
 <br/>
