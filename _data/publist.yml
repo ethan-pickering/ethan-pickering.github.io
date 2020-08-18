@@ -16,7 +16,7 @@
   image: pickering2020lift.jpeg
   display: Journal of Fluid Mechanics 892, A2
   year: 2020
-  arxiv: 1909.09737
+  #arxiv: 1909.09737
   doi: doi:10.1017/jfm.2020.301
   abstract: "Three amplification mechanisms present in turbulent jets, namely lift-up, Kelvin– Helmholtz and Orr, are characterized via global resolvent analysis and spectral proper orthogonal decomposition (SPOD) over a range of Mach numbers. The lift-up mechanism was recently identified in turbulent jets via local analysis by Nogueira et al. (J. Fluid Mech., vol. 873, 2019, pp. 211–237) at low Strouhal number (St) and non-zero azimuthal wavenumbers (m). In these limits, a global SPOD analysis of data from high-fidelity simulations reveals streamwise vortices and streaks similar to those found in turbulent wall-bounded flows. These structures are in qualitative agreement with the global resolvent analysis, which shows that they are a response to upstream forcing of streamwise vorticity near the nozzle exit. Analysis of mode shapes, component-wise amplitudes and sensitivity analysis distinguishes the three mechanisms and the regions of frequency–wavenumber space where each dominates, finding lift-up to be dominant as St/m → 0. Finally, SPOD and resolvent analyses of localized regions show that the lift-up mechanism is present throughout the jet, with a dominant azimuthal wavenumber inversely proportional to streamwise distance from the nozzle, with streaks of azimuthal wavenumber exceeding five near the nozzle, and wavenumbers one and two most energetic far downstream of the potential core."
 
