@@ -1,0 +1,6 @@
+@article{pickering2021resolvent,
+  title		= {Resolvent-based modeling of turbulent jet noise},
+  author	= {Pickering, Ethan and Towne, Aaron and Jordan, Peter and Colonius, Tim},
+  journal       = {arXiv preprint arXiv:2103.09421},  
+  year		= {2021}
+}

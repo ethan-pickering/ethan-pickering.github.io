@@ -1,0 +1,6 @@
+@article{pickering2020optimal,
+  title		= {Optimal eddy viscosity for resolvent-based models of coherent structures in turbulent jets},
+  author 	= {Pickering, Ethan and Rigas, Georgios and Sipp, Denis and Schmidt, Oliver T and Colonius, Tim},
+  journal 	= {arXiv preprint arXiv:2005.10964},
+  year 		= {2020}
+}
