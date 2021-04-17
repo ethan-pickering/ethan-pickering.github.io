@@ -69,7 +69,7 @@ permalink: /about/
 
 ## Sketch
 
-Ethan Pickering investigates turbulent flows to determine and leverage flow mechanisms for reducing noise and drag, while maintaining, or improving, energy efficiency in high-speed flows. He is currently a Ph.D. student in Mechanical Engineering at the California Institute of Technology, working with Professor Tim Colonius and collaborating with numerous institutions that cover state of the art computational, experimental, and theoretical abilities.
+Dr. Ethan Pickering investigates chaotic systems of engineering interest that exhibit rare and extreme events. He is currently a postdoctoral associate in Mechanical Engineering at the Massachusetts Institute of Technology, working with Themis Sapsis and collaborating with numerous institutions that cover state of the art computational, experimental, and theoretical abilities.
 
 {% if site.data.awards %}
 ## Awards

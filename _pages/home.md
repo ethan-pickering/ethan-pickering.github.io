@@ -11,11 +11,13 @@ code {padding: 6px 8px; font-size: 90%;}
 
 # Welcome!
 
-I am a Ph.D. candidate in Mechanical Engineering working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a> on reduced-order turbulence models at the <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>. I recently defended my thesis, Resolvent modeling of turbulent jets, on February 4th and for anyone who like to view the defense, here is the <a href="https://caltech.box.com/s/izah1rs8xzjwc6l12s150c60znqhk8oy" target="_blank">recording</a>. Some technical difficulties right before the presentation had me a bit flustered for the first couple slides until we get to the ''good stuff''. 
+I am a postdoctoral associate in Mechanical Engineering working with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> on prediction of extreme events in chaotic systems at the <a href="http://meche.mit.edu/" target="_blank">Massachusetts Institute of Technology</a>.
 
-Starting in March, I will be continuing research at the <a href="http://meche.mit.edu/" target="_blank">Massachusetts Institute of Technology</a> working with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> on prediction of extreme events in chaotic systems.
 
-I completed my B.S. at Case Western Reserve University in Mechanical and Aerospace Engineering (Summa Cum Laude), as well as a M.S. in Mechanical Engineering studying building energy efficiency data analytics.  I have work experience with Philips Healthcare, NASA, and the Great Lakes Energy Institute.  In these roles I spent time working as a prototype engineer, a thermodynamic system modeler, and a building energy data analyst. Currently,  I am pursuing research at the intersection of computational fluid dynamics and data science.
+I recently defended my thesis, Resolvent modeling of turbulent jets, on February 4th and for anyone who like to view the defense, here is the <a href="https://caltech.box.com/s/izah1rs8xzjwc6l12s150c60znqhk8oy" target="_blank">recording</a>. Some technical difficulties right before the presentation had me a bit flustered for the first couple slides until we get to the ''good stuff''. 
+
+
+I completed my Ph.D. in Mechanical Engineering working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a> on reduced-order turbulence models at the <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>. I began my studies (B.S.) at Case Western Reserve University in Mechanical and Aerospace Engineering (Summa Cum Laude), as well as a M.S. in Mechanical Engineering studying building energy efficiency data analytics.  I have work experience with Philips Healthcare, NASA, and the Great Lakes Energy Institute.  In these roles I spent time working as a prototype engineer, a thermodynamic system modeler, and a building energy data analyst. Currently,  I am pursuing research at the intersection of computational fluid dynamics and data science.
 
 
 
