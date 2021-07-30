@@ -1,0 +1,6 @@
+@phdthesis{pickering2021resolvent,
+  title={Resolvent Modeling of Turbulent Jets},
+  author={Pickering, E.},
+  year={2021},
+  school={California Institute of Technology}
+}
