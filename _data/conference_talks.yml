@@ -1,7 +1,23 @@
+- authors: E. Pickering, L. Lu, G. Karniadakis, T. Sapsis
+  title: Active learning of nonlinear operators via neural nets for forecasting instabilities leading to extreme events in fluids
+  conf: American Physical Society
+  year: 2021
+
+- authors: E. Pickering, A. Towne, P. Jordan, T. Colonius
+  title: Eddy viscosity resolvent models of jet turbulence and radiated sound
+  conf: Euromech Colloquium: Jet Noise Modelling and Control
+  year: 2021
+
+- authors: E. Pickering
+  title: Active learning of nonlinear operators for forecasting extreme and rare events
+  conf: MIT Postdoc Symposium
+  year: 2021
+
 - authors: E. Pickering, T. Colonius
   title: RANS-calibrated resolvent models of turbulent jets
   conf: American Physical Society
   year: 2020
+
 - authors: E. Pickering, A. Towne, P. Jordan, T. Colonius
   title: Resolvent-based jet noise models - a projection approach
   conf: AIAA Scitech Forum
