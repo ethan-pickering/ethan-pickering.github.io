@@ -1,10 +1,10 @@
 # Site settings
 title: Ethan Pickering
-email: pickering@caltech.edu
+email: pickering@mit.edu
 description: Academic webpage of Ethan Pickering
 baseurl: ""
 url: ""
-affiliation: I am part of the <a href="http://www.eas.caltech.edu/" target="_blank">Division of Engineering and Applied Science</a> at the California Institute of Technology
+affiliation: I am part of the <a href="http://meche.mit.edu/" target="_blank">Mechanical Engineering Department</a> at the Massachusetts Institute of Technology
 
 # Google analytics ID
 google_analytics: UA-176412042-1
@@ -12,14 +12,14 @@ google_analytics: UA-176412042-1
 # Location info. (shown in footer)
 location: >
   Coordinates: <br/>
-  Gates-Thomas Laboratory <br/>
-  California Institute of Technology <br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125, MC104-44<br/>
+  Building 5 <br/>
+  Massachusetts Institute of Technology <br/>
+  77 Massachusetts Ave<br/>
+  Cambridge, MA 02139<br/>
 
 # Contact info. (shown in footer)
 contact: >
-    Contact Ethan via email: <a href="mailto:pickering@caltech.edu" target="_blank">pickering@caltech.edu</a> <br/>
+    Contact Ethan via email: <a href="mailto:pickering@mit.edu" target="_blank">pickering@mit.edu</a> <br/>
     <br/><a href="/aboutwebsite.html">Use this webpage as a template for your own!</a>
 
 # Pages shown in navbar
