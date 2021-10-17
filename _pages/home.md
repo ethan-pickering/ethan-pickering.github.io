@@ -19,7 +19,11 @@ I recently defended my thesis, Resolvent modeling of turbulent jets, on February
 
 I completed my Ph.D. in Mechanical Engineering working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a> on reduced-order turbulence models at the <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>. I began my studies (B.S.) at Case Western Reserve University in Mechanical and Aerospace Engineering (Summa Cum Laude) and continued with a Masters (M.S.) in Mechanical Engineering studying building energy efficiency data analytics.  I have work experience with Philips Healthcare, NASA, and the Great Lakes Energy Institute.  In these roles I spent time working as a prototype engineer, a thermodynamic system modeler, and a building energy data analyst. Currently,  I am pursuing research at the intersection of computational fluid dynamics and data science.
 
+### Active Learning for Discovering Extremes
 
+My recent research activity centers around discovery and prediction of extreme
+events by leveraging recent advancements in deep neural networks and Bayesian
+statistics. Check out this quick 3 minute <a href="https://www.youtube.com/watch?v=ZYbB9TayxmQ" target="_blank">video</a> for a snapshot into my current work. I hope to have some publications out shortly surrounding these techniques.
 
 <br/>
 
