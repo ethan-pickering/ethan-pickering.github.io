@@ -1,3 +1,13 @@
+- title: Structure and Distribution Metric for Quantifying the Quality of Uncertainty: Assessing Gaussian Processes, Deep Neural Nets, and Deep Neural Operators for Regression
+  authors:
+  E. Pickering, T.P. Sapsis
+  url: pickering2022structure
+  image: pickering2022structure.png
+  display: <b>Submitted</b>
+  year: 2022
+  arxiv: 2203.04515
+  abstract: "We propose two bounded comparison metrics that may be implemented to arbitrary dimension in regression tasks. One quantifies the structure of uncertainty and the other quantifies the distribution of uncertainty. The structure metric assesses the similarity in shape and location of uncertainty with the true error, while the distribution metric quantifies the supported magnitudes between the two. We apply these metrics to Gaussian Processes (GPs), Ensemble Deep Neural Nets (DNNs), and Ensemble Deep Neural Operators (DNOs) on high-dimensional and nonlinear test cases. We find that comparing a model's uncertainty estimates with the model's squared error provides a compelling ground truth assessment. We also observe that both DNNs and DNOs, especially when compared to GPs, provide encouraging metric values in high dimensions with either sparse or plentiful data."
+
 - title: Resolvent-based modeling of turbulent jet noise
   authors:
     E. Pickering, A. Towne, P. Jordan, T. Colonius

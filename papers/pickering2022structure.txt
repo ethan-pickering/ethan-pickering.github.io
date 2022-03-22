@@ -1,0 +1,6 @@
+@article{pickering2022structure,
+  title={Structure and Distribution Metric for Quantifying the Quality of Uncertainty: Assessing Gaussian Processes, Deep Neural Nets, and Deep Neural Operators for Regression},
+  author={Pickering, Ethan and Sapsis, Themistoklis P},
+  journal={arXiv preprint arXiv:2203.04515},
+  year={2022}
+}
