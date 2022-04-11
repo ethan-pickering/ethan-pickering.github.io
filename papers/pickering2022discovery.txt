@@ -1,0 +1,6 @@
+@article{pickering2022discovery,
+    title={Discovering and forecasting extreme events via active learning in neural operators},
+    author={Pickering, Ethan and Karniadakis, George Em and Sapsis, Themistoklis P},
+    journal={arXiv preprint arXiv:2204.02488},                                     
+    year={2022}                                                                    
+   6 }   
