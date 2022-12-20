@@ -1,0 +1,9 @@
+@article{towne2022efficient,
+  title={Efficient global resolvent analysis via the one-way Navier--Stokes equations},
+  author={Towne, Aaron and Rigas, Georgios and Kamal, Omar and Pickering, Ethan and Colonius, Tim},
+  journal={Journal of Fluid Mechanics},
+  volume={948},
+  pages={A9},
+  year={2022},
+  publisher={Cambridge University Press}
+}

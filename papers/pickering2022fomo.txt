@@ -1,0 +1,6 @@
+@article{pickering2022information,
+  title={Information FOMO: The unhealthy fear of missing out on information. A method for removing misleading data for healthier models},
+  author={Pickering, Ethan and Sapsis, Themistoklis P},
+  journal={arXiv preprint arXiv:2208.13080},
+  year={2022}
+}

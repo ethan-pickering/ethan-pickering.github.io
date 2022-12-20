@@ -1,11 +1,20 @@
 - title: Discovering and forecasting extreme events via active learning in neural operators
-  authors: E. Pickering, G. Em Karniadakis, T.P. Sapsis
+  authors: E. Pickering, S. Guth, G. Em Karniadakis, T.P. Sapsis
   url: pickering2022discovery
   image: pickering2022discovery.png
+  display: Nature Compuational Science
+  year: 2022
+  doi: 10.1038/s43588-022-00376-0
+  abstract: "Extreme events in society and nature, such as pandemic spikes, rogue waves or structural failures, can have catastrophic consequences. Characterizing extremes is difficult, as they occur rarely, arise from seemingly benign conditions, and belong to complex and often unknown infinite-dimensional systems. Such challenges render attempts at characterizing them moot. We address each of these difficulties by combining output-weighted training schemes in Bayesian experimental design (BED) with an ensemble of deep neural operators. This model-agnostic framework pairs a BED scheme that actively selects data for quantifying extreme events with an ensemble of deep neural operators that approximate infinite-dimensional nonlinear operators. We show that not only does this framework outperform Gaussian processes, but that (1) shallow ensembles of just two members perform best; (2) extremes are uncovered regardless of the state of the initial data (that is, with or without extremes); (3) our method eliminates ‘double-descent’ phenomena; (4) the use of batches of suboptimal acquisition samples compared to step-by-step global optima does not hinder BED performance; and (5) Monte Carlo acquisition outperforms standard optimizers in high dimensions. Together, these conclusions form a scalable artificial intelligence (AI)-assisted experimental infrastructure that can efficiently infer and pinpoint critical situations across many domains, from physical to societal systems."
+
+- title: Information FOMO: The unhealthy fear of missing out on information. A method for removing misleading data for healthier models
+  authors: E. Pickering, T.P. Sapsis
+  url: pickering2022fomo
+  image: pickering2022fomo.png
   display: <b>Submitted</b>
   year: 2022
-  arxiv: 2204.02488
-  abstract: "Extreme events in society and nature, such as pandemic spikes or rogue waves, can have catastrophic consequences. Characterizing extremes is difficult as they occur rarely, arise from seemingly benign conditions, and belong to complex and often unknown infinite-dimensional systems. Such challenges render attempts at characterizing them as moot. We address each of these difficulties by combining novel training schemes in Bayesian experimental design (BED) with an ensemble of deep neural operators (DNOs). This model-agnostic framework pairs a BED scheme that actively selects data for quantifying extreme events with an ensemble of DNOs that approximate infinite-dimensional nonlinear operators. We find that not only does this framework clearly beat Gaussian processes (GPs) but that 1) shallow ensembles of just <i>two</i> members perform <i>best</i>; 2) extremes are uncovered regardless of the state of initial data (i.e. with or without extremes); 3) our method eliminates 'double-descent' phenomena; 4) the use of batches of suboptimal acquisition points compared to step-by-step global optima does not hinder BED performance; and 5) Monte Carlo acquisition outperforms standard minimizers in high-dimensions. Together these conclusions form the foundation of an AI-assisted experimental infrastructure that can efficiently infer and pinpoint critical situations across many domains, from physical to societal systems."
+  arxiv: 2208.13080
+  abstract: "Misleading or unnecessary data can have out-sized impacts on the health or accuracy of Machine Learning (ML) models. We present a Bayesian sequential selection method, akin to Bayesian experimental design, that identifies critically important information within a dataset, while ignoring data that is either misleading or brings unnecessary complexity to the surrogate model of choice. Specifically, our method eliminates the phenomena of double descent, where more data leads to worse performance. Our approach has two key features. First, the selection algorithm dynamically couples the chosen model and data. Data is chosen based on its merits towards improving the selected model, rather than being compared strictly against other data. Second, a natural convergence of the method removes the need for dividing the data into training, testing, and validation sets. Instead, the selection metric inherently assesses testing and validation error through global statistics of the model. This ensures that key information is never wasted in testing or validation. The method is applied using both Gaussian process regression and deep neural network surrogate models."
 
 - title: Structure and Distribution Metric for Quantifying the Quality of Uncertainty-Assessing Gaussian Processes, Deep Neural Nets, and Deep Neural Operators for Regression
   authors: E. Pickering, T.P. Sapsis
@@ -16,14 +25,24 @@
   arxiv: 2203.04515
   abstract: "We propose two bounded comparison metrics that may be implemented to arbitrary dimension in regression tasks. One quantifies the structure of uncertainty and the other quantifies the distribution of uncertainty. The structure metric assesses the similarity in shape and location of uncertainty with the true error, while the distribution metric quantifies the supported magnitudes between the two. We apply these metrics to Gaussian Processes (GPs), Ensemble Deep Neural Nets (DNNs), and Ensemble Deep Neural Operators (DNOs) on high-dimensional and nonlinear test cases. We find that comparing a model's uncertainty estimates with the model's squared error provides a compelling ground truth assessment. We also observe that both DNNs and DNOs, especially when compared to GPs, provide encouraging metric values in high dimensions with either sparse or plentiful data."
 
+- title: Efficient global resolvent analysis via the one-way Navier-Stokes equations
+  authors: 
+    A. Towne, G. Rigas, O. Kamal, E. Pickering, T. Colonius
+  url: towne2022efficient
+  image: towne2022efficient.png
+  display: Journal of Fluid Mechanics, 948, A9
+  year: 2022
+  doi: doi:10.1017/jfm.2022.647
+  abstract: "Resolvent analysis is a powerful tool for modelling and analysing transitional and turbulent flows and, in particular, for approximating coherent flow structures. Despite recent algorithmic advances, computing resolvent modes for flows with more than one inhomogeneous spatial coordinate remains computationally expensive. In this paper we show how efficient and accurate approximations of resolvent modes can be obtained using a well-posed spatial marching method for flows that contain a slowly varying direction, i.e. one in which the mean flow changes gradually. First, we derive a well-posed and convergent one-way equation describing the downstream-travelling waves supported by the linearized Navier–Stokes equations. The method is based on a projection operator that isolates downstream-travelling waves. Integrating these one-way Navier–Stokes (OWNS) equations in the slowly varying direction, which requires significantly less CPU and memory resources than a direct solution of the linearized Navier–Stokes equations, approximates the action of the resolvent operator on a forcing vector. Second, this capability is leveraged to compute approximate resolvent modes using an adjoint-based optimization framework in which the forward and adjoint OWNS equations are marched in the downstream and upstream directions, respectively. This avoids the need to solve direct and adjoint globally discretized equations, therefore bypassing the main computational bottleneck of a typical global resolvent calculation. The method is demonstrated using the examples of a simple acoustics problem, a Mach 1.5 turbulent jet and a Mach 4.5 transitional zero-pressure-gradient flat-plate boundary layer. The optimal OWNS results are validated against corresponding global calculations, and the close agreement demonstrates the near-parabolic nature of these flows."
+
 - title: Resolvent-based modeling of turbulent jet noise
   authors:
     E. Pickering, A. Towne, P. Jordan, T. Colonius
   url: pickering2021resolvent
   image: pickering2021resolvent.png
-  display: <b>Accepted</b>, Journal of the Acoustical Society of America
+  display: Journal of the Acoustical Society of America
   year: 2021
-  arxiv: 2103.09421
+  doi: 10.1121/10.0006453
   abstract: "Resolvent analysis has demonstrated encouraging results for modeling coherent structures in jets when compared against their data-educed counterparts from high-fidelity large-eddy simulations (LES). We formulate resolvent analysis as an acoustic analogy that relates the near-field resolvent forcing to the near- and far-field pressure. We use an LES database of round, isothermal, Mach 0.9 and 1.5 jets to produce an ensemble of realizations for the acoustic field that we project onto a limited set of resolvent modes. In the near-field, we perform projections on a restricted acoustic output domain, r/D=[5,6], while the far-field projections are performed on a Kirchhoff surface comprising a 100-diameter arc centered at the nozzle. This allows the LES realizations to be expressed in the resolvent basis via a data-deduced, low-rank, cross-spectral density matrix. We find that a single resolvent mode reconstructs the most energetic regions of the acoustic field across Strouhal numbers, St=[0−1], and azimuthal wavenumbers, m=[0,2]. Finally, we present a simple function that results in a rank-1 resolvent model agreeing within 2dB of the peak noise for both jets."
 
 - title: Resolvent modeling of turbulent jets
