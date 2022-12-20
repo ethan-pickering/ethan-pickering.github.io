@@ -11,15 +11,17 @@ code {padding: 6px 8px; font-size: 90%;}
 
 # Welcome!
 
-I am a postdoctoral associate in Mechanical Engineering working with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> on prediction of extreme events in chaotic systems at the <a href="http://meche.mit.edu/" target="_blank">Massachusetts Institute of Technology</a>. Specifically, we combine deep neural networks with optimal sampling techniques to efficiently perform experimental design. Check out our recent 2022 preprints on the publications page.
+I lead at team at Bayer Crop Sciences researching and implementing methods for using Artificial Intelligence (AI) to inform genetic design of climate resilient crops. If you are interested in our vision/research or are curious about joining the team, please do not hesistate to reach out to me at ethan.pickering@bayer.com.  
+
+I also lecture and collaborate at MIT. Previous to my new roles, I was postdoctoral associate in Mechanical Engineering working with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> on prediction of extreme events in chaotic systems at the <a href="http://meche.mit.edu/" target="_blank">Massachusetts Institute of Technology</a>. Specifically, we combine deep neural networks with optimal sampling techniques to efficiently perform experimental design. Check out newest publication in Nature Computational Science on Discovering Extremes with AI, as well as our related 2022 preprints on the publications page.
 
 I completed my Ph.D. in Mechanical Engineering working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a> on reduced-order turbulence models at the <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>. I began my studies (B.S.) at Case Western Reserve University in Mechanical and Aerospace Engineering (Summa Cum Laude) and continued with a Masters (M.S.) in Mechanical Engineering studying building energy efficiency data analytics.  I have work experience with Philips Healthcare, NASA, and the Great Lakes Energy Institute.  In these roles I spent time working as a prototype engineer, a thermodynamic system modeler, and a building energy data analyst. Currently,  I am pursuing research at the intersection of computational fluid dynamics and data science.
 
 ### Active Learning for Discovering Extremes
 
-My recent research activity centers around discovery and prediction of extreme
+My recent research activity at MIT centers around discovery and prediction of extreme
 events by leveraging recent advancements in deep neural networks and Bayesian
-statistics. Check out this quick 3 minute <a href="https://www.youtube.com/watch?v=ZYbB9TayxmQ" target="_blank">video</a> for a snapshot into my current work. I hope to have some publications out shortly surrounding these techniques.
+statistics. Check out this quick 3 minute <a href="https://www.youtube.com/watch?v=ZYbB9TayxmQ" target="_blank">video</a> for a snapshot into my current work. Please check out our publication page form my information on this work.
 
 <br/>
 
