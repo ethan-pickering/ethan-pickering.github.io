@@ -11,7 +11,7 @@ code {padding: 6px 8px; font-size: 90%;}
 
 # Welcome!
 
-I lead at team at <a href="https://www.bayer.com/en/agriculture" target="_blank">Bayer Crop Science</a> researching and implementing methods for using Artificial Intelligence (AI) to inform genetic design of climate resilient crops. If you are interested in our vision/research or are curious about joining the team, please do not hesistate to reach out to me at ethan.pickering@bayer.com.  
+I lead a team at <a href="https://www.bayer.com/en/agriculture" target="_blank">Bayer Crop Science</a> researching and implementing methods for using Artificial Intelligence (AI) to inform genetic design of climate resilient crops. If you are interested in our vision/research or are curious about joining the team, please do not hesistate to reach out to me at ethan.pickering@bayer.com.  
 
 I also lecture and collaborate frequently at MIT. Previous to my new roles, I was a postdoctoral associate in Mechanical Engineering working with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> on prediction of extreme events in chaotic systems at the <a href="http://meche.mit.edu/" target="_blank">Massachusetts Institute of Technology</a>. Specifically, we combine deep neural networks with optimal sampling techniques to efficiently perform experimental design. Check out newest publication in Nature Computational Science on Discovering Extremes with AI, as well as our related 2022 preprints on the publications page.
 
